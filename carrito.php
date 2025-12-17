@@ -49,7 +49,7 @@ foreach ($_SESSION['carrito'] as $item) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Carrito de Compras - Florería Bella Flora</title>
+    <title>Carrito de Compras - Flores online unap</title>
     <style>
         * {
             margin: 0;
