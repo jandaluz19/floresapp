@@ -272,23 +272,6 @@ floresapp/
   - Ticket promedio
   - Unidades vendidas
 
----
-
-## 🖼️ Capturas de Pantalla
-
-### Página Principal
-![Página Principal](screenshots/home.png)
-
-### Catálogo de Flores
-![Catálogo](screenshots/catalogo.png)
-
-### Dashboard Administrativo
-![Dashboard](screenshots/dashboard.png)
-
-### Panel de Pedidos
-![Pedidos](screenshots/pedidos.png)
-
----
 
 ## 🔑 Credenciales de Prueba
 
