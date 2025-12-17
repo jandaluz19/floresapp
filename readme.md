@@ -580,7 +580,11 @@ Este proyecto es de código abierto y está disponible bajo la [Licencia MIT](LI
 ## 👨‍💻 Autor
 
 **Jandaluz19**
+**ludwid-benito**
+**nurymargot2121**
 - GitHub: [@jandaluz19](https://github.com/jandaluz19)
+- GitHub: [@ludwid-benito](https://github.com/ludwid-benito)
+- GitHub: [@nurymargot2121](https://github.com/nurymargot2121)
 - Proyecto: [FloresApp](https://github.com/jandaluz19/floresapp)
 
 ---
